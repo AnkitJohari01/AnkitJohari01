@@ -10,7 +10,7 @@
   &lt;a href="https://www.linkedin.com/in/ankit-johari/" target="_blank"&gt;
     &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
   &lt;/a&gt;
-  &lt;a href="mailto:ankit.johari01@gmail.com" target="_blank"&gt;
+  &lt;a href="mailto:jankit.hari2000@gmail.com" target="_blank"&gt;
     &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /&gt;
   &lt;/a&gt;
   &lt;a href="https://github.com/AnkitJohari01" target="_blank"&gt;
@@ -24,7 +24,7 @@
 &lt;p align="center"&gt;
   &lt;img src="https://img.shields.io/badge/B.Tech-Computer%20Science-764ba2?style=flat-square&logo=graduation-cap&logoColor=white" alt="B.Tech CSE" /&gt;
   &lt;img src="https://img.shields.io/badge/M.Tech-Artificial%20Intelligence-667eea?style=flat-square&logo=graduation-cap&logoColor=white" alt="M.Tech AI" /&gt;
-  &lt;img src="https://img.shields.io/badge/Location-India-764ba2?style=flat-square&logo=location&logoColor=white" alt="Location" /&gt;
+  &lt;img src="https://img.shields.io/badge/Location-Maharashtra-764ba2?style=flat-square&logo=location&logoColor=white" alt="Location" /&gt;
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
