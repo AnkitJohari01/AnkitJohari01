@@ -1,53 +1,53 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Ankit%20Johari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Architect&descAlignY=55&descSize=18" width="100%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Ankit%20Johari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Architect&descAlignY=55&descSize=18" width="100%" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+at+Scale;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Full+Stack+Engineering+with+Product+Mindset;Open+Source+Contributor+%7C+Tech+Speaker" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+at+Scale;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Full+Stack+Engineering+with+Product+Mindset;Open+Source+Contributor+%7C+Tech+Speaker" alt="Typing SVG" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://www.linkedin.com/in/ankit-johari/" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:jankit.hari2000@gmail.com" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/AnkitJohari01" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://ankitjohari.vercel.app" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-johari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jankit.hari2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/AnkitJohari01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://ankitjohari.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/B.Tech-Computer%20Science-764ba2?style=flat-square&logo=graduation-cap&logoColor=white" alt="B.Tech CSE" /&gt;
-  &lt;img src="https://img.shields.io/badge/M.Tech-Artificial%20Intelligence-667eea?style=flat-square&logo=graduation-cap&logoColor=white" alt="M.Tech AI" /&gt;
-  &lt;img src="https://img.shields.io/badge/Location-Maharashtra-764ba2?style=flat-square&logo=location&logoColor=white" alt="Location" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-764ba2?style=flat-square&logo=graduation-cap&logoColor=white" alt="B.Tech CSE" />
+  <img src="https://img.shields.io/badge/M.Tech-Artificial%20Intelligence-667eea?style=flat-square&logo=graduation-cap&logoColor=white" alt="M.Tech AI" />
+  <img src="https://img.shields.io/badge/Location-Maharashtra-764ba2?style=flat-square&logo=location&logoColor=white" alt="Location" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=AnkitJohari01&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views" /&gt;
-  &lt;img src="https://img.shields.io/github/followers/AnkitJohari01?label=Followers&style=flat-square&color=764ba2&logo=github" alt="Followers" /&gt;
-  &lt;img src="https://img.shields.io/github/stars/AnkitJohari01?label=Stars&style=flat-square&color=667eea&logo=github" alt="Stars" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkitJohari01&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AnkitJohari01?label=Followers&style=flat-square&color=764ba2&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AnkitJohari01?label=Stars&style=flat-square&color=667eea&logo=github" alt="Stars" />
+</p>
 
 ---
 
-## &lt;img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"&gt; About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-&lt;p align="justify"&gt;
-  I am a &lt;strong&gt;Senior Software Engineer&lt;/strong&gt; specializing in &lt;strong&gt;Artificial Intelligence&lt;/strong&gt;, &lt;strong&gt;Machine Learning&lt;/strong&gt;, and &lt;strong&gt;Full Stack Development&lt;/strong&gt;. With a strong foundation in computer science and years of hands-on experience building production-grade systems, I architect scalable solutions that bridge cutting-edge AI research with robust engineering practices.
-&lt;/p&gt;
+<p align="justify">
+  I am a <strong>Senior Software Engineer</strong> specializing in <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Full Stack Development</strong>. With a strong foundation in computer science and years of hands-on experience building production-grade systems, I architect scalable solutions that bridge cutting-edge AI research with robust engineering practices.
+</p>
 
-&lt;p align="justify"&gt;
+<p align="justify">
   My expertise spans the entire ML lifecycle — from data pipeline engineering and model training to deployment, monitoring, and MLOps automation. I thrive in high-ambiguity environments where I can translate complex business problems into elegant technical solutions. My approach combines deep technical knowledge with a product engineering mindset, ensuring that every system I build delivers measurable business impact.
-&lt;/p&gt;
+</p>
 
-&lt;p align="justify"&gt;
-  I am passionate about &lt;strong&gt;open source&lt;/strong&gt;, &lt;strong&gt;technical mentorship&lt;/strong&gt;, and &lt;strong&gt;building developer communities&lt;/strong&gt;. I regularly contribute to ML frameworks, write technical articles, and speak at engineering conferences. I believe in writing clean, maintainable code and designing systems that stand the test of time.
-&lt;/p&gt;
+<p align="justify">
+  I am passionate about <strong>open source</strong>, <strong>technical mentorship</strong>, and <strong>building developer communities</strong>. I regularly contribute to ML frameworks, write technical articles, and speak at engineering conferences. I believe in writing clean, maintainable code and designing systems that stand the test of time.
+</p>
 
 ### 🎯 Open To
 
@@ -62,24 +62,24 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-&lt;p align="left"&gt;
-  &lt;img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,rust,sql&theme=dark" /&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,rust,sql&theme=dark" />
+</p>
 
 ### Frontend
-&lt;p align="left"&gt;
-  &lt;img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,sass,redux,webpack,vite&theme=dark" /&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,sass,redux,webpack,vite&theme=dark" />
+</p>
 
 ### Backend & Databases
-&lt;p align="left"&gt;
-  &lt;img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql,postgresql,mongodb,redis,elasticsearch,kafka&theme=dark" /&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql,postgresql,mongodb,redis,elasticsearch,kafka&theme=dark" />
+</p>
 
 ### Cloud, DevOps & Tooling
-&lt;p align="left"&gt;
-  &lt;img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,jenkins,git,linux,nginx&theme=dark" /&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,jenkins,git,linux,nginx&theme=dark" />
+</p>
 
 ---
 
@@ -100,11 +100,11 @@
 
 ## ⭐ Featured Projects
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🧠 NeuroFlow — Intelligent Document Processing Platform&lt;/b&gt;&lt;/summary&gt;
-&lt;br&gt;
+<details>
+<summary><b>🧠 NeuroFlow — Intelligent Document Processing Platform</b></summary>
+<br>
 
-&gt; **Enterprise-grade AI platform** for automated document understanding, extraction, and classification at scale. Processes millions of documents with 99.2% accuracy using custom transformer architectures.
+> **Enterprise-grade AI platform** for automated document understanding, extraction, and classification at scale. Processes millions of documents with 99.2% accuracy using custom transformer architectures.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
@@ -113,13 +113,13 @@
 **Professional Overview:**
 NeuroFlow is a production-ready intelligent document processing system built for financial services. It combines a custom fine-tuned BERT-based model for entity extraction with a vision transformer for document layout analysis. The system handles complex document structures including tables, nested forms, and multi-page contracts. I architected the microservices backend using FastAPI and deployed the ML pipeline on AWS ECS with auto-scaling GPU instances. The platform includes a real-time feedback loop for continuous model improvement, an annotation UI for domain experts, and comprehensive audit trails for compliance.
 
-&lt;/details&gt;
+</details>
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🔮 ProphetLens — Time Series Forecasting Engine&lt;/b&gt;&lt;/summary&gt;
-&lt;br&gt;
+<details>
+<summary><b>🔮 ProphetLens — Time Series Forecasting Engine</b></summary>
+<br>
 
-&gt; **High-performance forecasting system** for demand prediction, anomaly detection, and trend analysis across multi-dimensional time series data. Powers inventory optimization for retail and supply chain.
+> **High-performance forecasting system** for demand prediction, anomaly detection, and trend analysis across multi-dimensional time series data. Powers inventory optimization for retail and supply chain.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
@@ -128,13 +128,13 @@ NeuroFlow is a production-ready intelligent document processing system built for
 **Professional Overview:**
 ProphetLens is a sophisticated time series forecasting platform that combines statistical models (Prophet, ARIMA) with deep learning approaches (LSTM, Temporal Fusion Transformers) to deliver accurate multi-horizon predictions. The system features automated model selection based on data characteristics, ensemble forecasting for improved accuracy, and real-time anomaly detection using isolation forests. I designed the event-driven architecture using Kafka for streaming data ingestion and built a custom monitoring dashboard with Grafana for tracking model drift and prediction accuracy. The platform is deployed on Kubernetes with horizontal pod autoscaling.
 
-&lt;/details&gt;
+</details>
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🌐 NexusGraph — Distributed Graph Neural Network Platform&lt;/b&gt;&lt;/summary&gt;
-&lt;br&gt;
+<details>
+<summary><b>🌐 NexusGraph — Distributed Graph Neural Network Platform</b></summary>
+<br>
 
-&gt; **Scalable graph analytics and GNN training platform** for recommendation systems, fraud detection, and knowledge graph completion. Handles billion-edge graphs with distributed training.
+> **Scalable graph analytics and GNN training platform** for recommendation systems, fraud detection, and knowledge graph completion. Handles billion-edge graphs with distributed training.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
@@ -143,28 +143,28 @@ ProphetLens is a sophisticated time series forecasting platform that combines st
 **Professional Overview:**
 NexusGraph addresses the challenge of training Graph Neural Networks on billion-scale graphs. I implemented a distributed sampling strategy using Ray for parallel neighbor sampling and built a custom PyTorch Geometric extension for efficient mini-batch training. The platform includes a graph database layer using Neo4j for persistent storage and fast traversal, a Go-based API gateway for high-throughput queries, and a gRPC service mesh for inter-service communication. The system supports both transductive and inductive learning scenarios and includes tools for graph visualization and embedding analysis.
 
-&lt;/details&gt;
+</details>
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;⚡ InfernoServe — Low-Latency Model Serving Infrastructure&lt;/b&gt;&lt;/summary&gt;
-&lt;br&gt;
+<details>
+<summary><b>⚡ InfernoServe — Low-Latency Model Serving Infrastructure</b></summary>
+<br>
 
-&gt; **High-performance ML inference server** optimized for sub-50ms latency. Supports dynamic batching, model versioning, A/B testing, and canary deployments for production ML systems.
+> **High-performance ML inference server** optimized for sub-50ms latency. Supports dynamic batching, model versioning, A/B testing, and canary deployments for production ML systems.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| Python, C++, Triton, BentoML, Envoy, Prometheus, Terraform | 100K+ RPS | P99 &lt; 50ms, Auto-scaling | mTLS, API Gateway, Rate limiting | 60% latency reduction | [infernoserve](https://github.com/AnkitJohari01/infernoserve) |
+| Python, C++, Triton, BentoML, Envoy, Prometheus, Terraform | 100K+ RPS | P99 < 50ms, Auto-scaling | mTLS, API Gateway, Rate limiting | 60% latency reduction | [infernoserve](https://github.com/AnkitJohari01/infernoserve) |
 
 **Professional Overview:**
 InfernoServe is a production inference infrastructure designed for latency-critical applications. I built a custom C++ extension for the Triton Inference Server to optimize GPU memory management and reduce inference overhead. The platform features dynamic batching with adaptive batch size optimization, model versioning with automatic rollback capabilities, and A/B testing framework for safe model deployments. The infrastructure is provisioned using Terraform with multi-region support and includes comprehensive observability using Prometheus and Grafana for latency, throughput, and error rate monitoring.
 
-&lt;/details&gt;
+</details>
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;📊 DataForge — Modern Data Platform&lt;/b&gt;&lt;/summary&gt;
-&lt;br&gt;
+<details>
+<summary><b>📊 DataForge — Modern Data Platform</b></summary>
+<br>
 
-&gt; **End-to-end data platform** with ETL orchestration, data quality monitoring, and self-service analytics. Enables data-driven decision making across the organization.
+> **End-to-end data platform** with ETL orchestration, data quality monitoring, and self-service analytics. Enables data-driven decision making across the organization.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
@@ -173,7 +173,7 @@ InfernoServe is a production inference infrastructure designed for latency-criti
 **Professional Overview:**
 DataForge is a comprehensive modern data stack that I architected to replace legacy ETL processes. The platform uses Apache Airflow for workflow orchestration, dbt for transformation logic, and Snowflake as the cloud data warehouse. I implemented data quality gates using Great Expectations with automated alerting for schema drift and data anomalies. The platform includes a self-service analytics layer with Metabase for business users and a data catalog for discovery. I designed the system with cost optimization in mind, implementing auto-suspend policies and query result caching to reduce warehouse costs by 70%.
 
-&lt;/details&gt;
+</details>
 
 ---
 
@@ -227,7 +227,7 @@ Full stack developer building web applications and RESTful APIs for enterprise c
 
 ## 🏆 Achievements
 
-&lt;p align="center"&gt;
+<p align="center">
 
 | Recognition | Details |
 |-------------|---------|
@@ -240,100 +240,100 @@ Full stack developer building web applications and RESTful APIs for enterprise c
 | 📊 **Kaggle Competition Expert** | 3 silver medals in ML competitions |
 | 💡 **Patent — Intelligent Document Processing** | Co-inventor on US patent for automated document classification |
 
-&lt;/p&gt;
+</p>
 
 ---
 
 ## 📜 Certifications
 
 ### AWS
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAP" /&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML" /&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps" /&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAP" />
+  <img src="https://img.shields.io/badge/AWS%20Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML" />
+  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps" />
+</p>
 
 ### Oracle
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" /&gt;
-  &lt;img src="https://img.shields.io/badge/Oracle%20Certified%20Professional%20Java%20SE%2011-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCP Java" /&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
+  <img src="https://img.shields.io/badge/Oracle%20Certified%20Professional%20Java%20SE%2011-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCP Java" />
+</p>
 
 ### NPTEL
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/NPTEL-Deep%20Learning-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="NPTEL DL" /&gt;
-  &lt;img src="https://img.shields.io/badge/NPTEL-Reinforcement%20Learning-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="NPTEL RL" /&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="NPTEL DL" />
+  <img src="https://img.shields.io/badge/NPTEL-Reinforcement%20Learning-0078D4?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="NPTEL RL" />
+</p>
 
 ### Cisco
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/CCNA-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" /&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://img.shields.io/badge/CCNA-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+</p>
 
 ---
 
 ## 💻 Coding Profiles
 
-&lt;p align="center"&gt;
-  &lt;a href="https://leetcode.com/AnkitJohari01/" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://auth.geeksforgeeks.org/user/ankitjohari01/" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.hackerrank.com/ankit_johari01" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.codechef.com/users/ankitjohari01" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://leetcode.com/AnkitJohari01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ankitjohari01/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.hackerrank.com/ankit_johari01" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.codechef.com/users/ankitjohari01" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://leetcard.jacoblin.cool/AnkitJohari01?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats" width="48%" /&gt;
-  &lt;img src="https://geeks-for-geeks-stats-api-nitesh-thorats-projects.vercel.app/?userName=ankitjohari01" alt="GeeksforGeeks Stats" width="48%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AnkitJohari01?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats" width="48%" />
+  <img src="https://geeks-for-geeks-stats-api-nitesh-thorats-projects.vercel.app/?userName=ankitjohari01" alt="GeeksforGeeks Stats" width="48%" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=AnkitJohari01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitJohari01&theme=midnight-purple&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="48%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitJohari01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitJohari01&theme=midnight-purple&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="48%" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitJohari01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=10" alt="Top Languages" width="48%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitJohari01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=10" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 ## 🏅 GitHub Trophies
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=AnkitJohari01&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkitJohari01&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
+</p>
 
 ---
 
 ## 🔥 Contribution Activity
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitJohari01&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area_color=667eea" alt="Contribution Graph" width="100%" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitJohari01&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area_color=667eea" alt="Contribution Graph" width="100%" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-&lt;p align="center"&gt;
-  &lt;picture&gt;
-    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitJohari01/AnkitJohari01/output/github-contribution-grid-snake-dark.svg" /&gt;
-    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitJohari01/AnkitJohari01/output/github-contribution-grid-snake.svg" /&gt;
-    &lt;img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AnkitJohari01/AnkitJohari01/output/github-contribution-grid-snake-dark.svg" /&gt;
-  &lt;/picture&gt;
-&lt;/p&gt;
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitJohari01/AnkitJohari01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitJohari01/AnkitJohari01/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AnkitJohari01/AnkitJohari01/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -361,3 +361,42 @@ Open To:
   - Technical advisory positions
   - Collaborative research projects
   - Conference speaking engagements
+```
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="mailto:jankit.hari2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-jankit.hari2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-johari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ankit--johari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AnkitJohari01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AnkitJohari01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ankitjohari.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ankitjohari.vercel.app-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"First, solve the problem. Then, write the code."</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" />
+</p>
